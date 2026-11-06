@@ -71,4 +71,4 @@ python test_images.py     # end-to-end on the images in samples/
 
 ---
 
-<sub>Built by [Concept Bytes](https://github.com/BucketSe).</sub>
+<sub>Built by [Concept Bytes](https://github.com/ktrol).</sub>
